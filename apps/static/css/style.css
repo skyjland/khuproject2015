@@ -1,0 +1,12 @@
+@font-face{
+
+    font-family:'Jua';
+    src: url("../fonts/BM-JUA.woff");
+
+    font-family:'Hanna';
+    src: url("../fonts/BM-HANNA.woff");
+}
+
+nav{
+    font-family: 'Jua';
+}
