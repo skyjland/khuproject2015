@@ -89,7 +89,6 @@ class LikeReview(db.Model):
 
 
 
-
 # 좋아요
 class LikeComment(db.Model):
     id = db.Column(db.Integer, primary_key=True)
